@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Soundwave Clone</string>
+    <string name="pushText">Push Gesture</string>
+    <string name="pullText">Pull Gesture</string>
+</resources>
